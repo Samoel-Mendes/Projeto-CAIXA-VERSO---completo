@@ -1,0 +1,11 @@
+id,nome,media,media_ajustada
+1,Ana Silva,8.5,7.32
+2,Carlos Oliveira,6.2,5.34
+3,Maria Santos,9.1,7.84
+4,João Pereira,7.3,6.29
+5,Fernanda Costa,5.8,5.0
+6,Ricardo Almeida,8.9,7.67
+7,Juliana Rodrigues,6.7,5.77
+8,Pedro Mendes,7.8,6.72
+9,Camila Ferreira,4.5,3.88
+10,Lucas Souza,9.5,8.18

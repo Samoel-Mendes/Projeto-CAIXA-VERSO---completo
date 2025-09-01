@@ -1,0 +1,222 @@
+[
+  {
+    "nome": "Avatar",
+    "diretor": "James Cameron",
+    "avaliacao": 7.8,
+    "data_lancamento": "2009-12-18",
+    "duracao": [
+      2,
+      42
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Vingadores: Ultimato",
+    "diretor": "Irmãos Russo",
+    "avaliacao": 8.4,
+    "data_lancamento": "2019-04-26",
+    "duracao": [
+      3,
+      1
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Titanic",
+    "diretor": "James Cameron",
+    "avaliacao": 7.9,
+    "data_lancamento": "1997-12-19",
+    "duracao": [
+      3,
+      14
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Star Wars: O Despertar da Força",
+    "diretor": "J.J. Abrams",
+    "avaliacao": 7.8,
+    "data_lancamento": "2015-12-18",
+    "duracao": [
+      2,
+      18
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Jurassic World",
+    "diretor": "Colin Trevorrow",
+    "avaliacao": 7.0,
+    "data_lancamento": "2015-06-12",
+    "duracao": [
+      2,
+      4
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "O Rei Leão",
+    "diretor": "Jon Favreau",
+    "avaliacao": 6.8,
+    "data_lancamento": "2019-07-19",
+    "duracao": [
+      1,
+      58
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Os Vingadores",
+    "diretor": "Joss Whedon",
+    "avaliacao": 8.0,
+    "data_lancamento": "2012-05-04",
+    "duracao": [
+      2,
+      23
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Velozes & Furiosos 7",
+    "diretor": "James Wan",
+    "avaliacao": 7.1,
+    "data_lancamento": "2015-04-03",
+    "duracao": [
+      2,
+      17
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Frozen II",
+    "diretor": "Chris Buck",
+    "avaliacao": 6.8,
+    "data_lancamento": "2019-11-22",
+    "duracao": [
+      1,
+      43
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Homem-Aranha: Sem Volta para Casa",
+    "diretor": "Jon Watts",
+    "avaliacao": 8.2,
+    "data_lancamento": "2021-12-17",
+    "duracao": [
+      2,
+      28
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Harry Potter e as Relíquias da Morte - Parte 2",
+    "diretor": "David Yates",
+    "avaliacao": 8.1,
+    "data_lancamento": "2011-07-15",
+    "duracao": [
+      2,
+      10
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "007 - Sem Tempo para Morrer",
+    "diretor": "Cary Fukunaga",
+    "avaliacao": 7.3,
+    "data_lancamento": "2021-10-08",
+    "duracao": [
+      2,
+      43
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Duna",
+    "diretor": "Denis Villeneuve",
+    "avaliacao": 8.0,
+    "data_lancamento": "2021-10-22",
+    "duracao": [
+      2,
+      35
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Top Gun: Maverick",
+    "diretor": "Joseph Kosinski",
+    "avaliacao": 8.5,
+    "data_lancamento": "2022-05-27",
+    "duracao": [
+      2,
+      17
+    ],
+    "streaming": false
+  },
+  {
+    "nome": "Oppenheimer",
+    "diretor": "Christopher Nolan",
+    "avaliacao": 8.6,
+    "data_lancamento": "2023-07-21",
+    "duracao": [
+      3,
+      0
+    ],
+    "streaming": false
+  },
+  {
+    "nome": "Barbie",
+    "diretor": "Greta Gerwig",
+    "avaliacao": 7.8,
+    "data_lancamento": "2023-07-21",
+    "duracao": [
+      1,
+      54
+    ],
+    "streaming": false
+  },
+  {
+    "nome": "Avatar: O Caminho da Água",
+    "diretor": "James Cameron",
+    "avaliacao": 7.6,
+    "data_lancamento": "2022-12-16",
+    "duracao": [
+      3,
+      12
+    ],
+    "streaming": false
+  },
+  {
+    "nome": "Matrix Resurrections",
+    "diretor": "Lana Wachowski",
+    "avaliacao": 5.7,
+    "data_lancamento": "2021-12-22",
+    "duracao": [
+      2,
+      28
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Eternos",
+    "diretor": "Chloé Zhao",
+    "avaliacao": 6.3,
+    "data_lancamento": "2021-11-05",
+    "duracao": [
+      2,
+      37
+    ],
+    "streaming": true
+  },
+  {
+    "nome": "Missão: Impossível - Acerto de Contas",
+    "diretor": "Christopher McQuarrie",
+    "avaliacao": 7.8,
+    "data_lancamento": "2023-07-14",
+    "duracao": [
+      2,
+      43
+    ],
+    "streaming": false
+  }
+]
